@@ -2,6 +2,6 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-        <content />
+        <content><Text text="this is for git demo - first commit"/> </content>
     </Page>
 </mvc:View>
